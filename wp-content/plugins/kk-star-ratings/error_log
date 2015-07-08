@@ -1,0 +1,5 @@
+[28-Feb-2014 20:20:11 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cheryldukes/public_html/wp-content/plugins/kk-star-ratings/bhittani-framework/plugin.php on line 103
+[28-Feb-2014 20:20:15 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cheryldukes/public_html/wp-content/plugins/kk-star-ratings/bhittani-framework/plugin.php on line 103
+[03-Aug-2014 03:33:52 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cheryldukes/public_html/wp-content/plugins/kk-star-ratings/bhittani-framework/plugin.php on line 103
+[03-Aug-2014 03:33:54 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cheryldukes/public_html/wp-content/plugins/kk-star-ratings/bhittani-framework/plugin.php on line 103
+[03-Aug-2014 03:33:55 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cheryldukes/public_html/wp-content/plugins/kk-star-ratings/bhittani-framework/plugin.php on line 103
